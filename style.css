@@ -256,7 +256,6 @@ h4 {
 .project-content {
   flex: 1 1 auto;
   padding: 1.25rem;
-
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -272,8 +271,8 @@ h4 {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: white;
-  background: #26282c;
+  color: #26282c;
+  background: white;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
@@ -283,8 +282,8 @@ h4 {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: white;
-  background: #26282c;
+  color: #26282c;
+  background: white;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
